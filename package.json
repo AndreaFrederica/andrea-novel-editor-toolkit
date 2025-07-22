@@ -1,0 +1,47 @@
+{
+  "name": "andrea-novel-editor",
+  "displayName": "Andrea Novel Editor",
+  "description": "The Essential Toolkit for Writing Fiction",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "alefragnani.bookmarks",
+    "alefragnani.project-manager",
+    "andreafrederica.andrea-novel-helper",
+    "anseki.vscode-color",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "blueglassblock.better-json5",
+    "christian-kohler.path-intellisense",
+    "codezombiech.gitignore",
+    "donjayamanne.git-extension-pack",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "felipecaputo.git-project-manager",
+    "gera2ld.markmap-vscode",
+    "gruntfuggly.todo-tree",
+    "holmescn.vscode-wordcount-cjk",
+    "igorsbitnev.error-gutters",
+    "jacquesgariepy.out-of-code-insights",
+    "mkxml.vscode-filesize",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "pkief.material-icon-theme",
+    "savh.json5-kit",
+    "shaharkazaz.git-merger",
+    "shd101wyy.markdown-preview-enhanced",
+    "streetsidesoftware.code-spell-checker",
+    "tamasfe.even-better-toml",
+    "usernamehw.errorlens",
+    "waderyan.gitblame",
+    "yzane.markdown-pdf",
+    "yzhang.markdown-all-in-one",
+    "ziyasal.vscode-open-in-github"
+  ]
+}
