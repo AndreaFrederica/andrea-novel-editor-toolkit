@@ -3,6 +3,12 @@
   "displayName": "Andrea Novel Editor",
   "description": "The Essential Toolkit for Writing Fiction",
   "version": "0.0.1",
+  "publisher": "andreafrederica",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreaFrederica/andrea-novel-editor-toolkit.git"
+  },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.102.0"
   },
